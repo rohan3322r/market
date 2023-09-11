@@ -1,0 +1,289 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    font-family: 'inter', sans-serif;
+    font-family: 'lato', sans-serif;
+}
+.container{
+    max-width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+}.flex{
+    display: flex;
+}
+.mb-32 {
+    margin-bottom: 32px;
+}
+.mb-40 {
+    margin-bottom: 40px;
+}
+.mb-24 {
+    margin-bottom: 24px;
+}
+.mb-124 {
+    margin-bottom: 124px;
+}
+.mt-20 {
+    margin-top: 25px;
+}
+.step1 {
+    display: flex;
+    margin-top: 50px;
+}
+.logo {
+    padding-top: 2px;
+    padding-right: 12px;
+}
+.name {
+    color: #FF1F3D;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+}
+#Tube {
+    color: #252525;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+}
+.view {
+    display: inline-flex;
+    padding: 15px 23px;
+    gap: 10px;
+    border-radius: 4px;
+    background: rgba(37, 37, 37, 0.20);
+}
+.viewc {
+    color: #252525;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500;
+}
+.view:hover {
+    cursor: pointer;
+}
+.pl {
+    padding-left: 440px;
+}
+.Blog {
+    padding: 10px 20px;
+    gap: 10px;
+    border-radius: 4px;
+    background: #FF1F3D;
+}
+.Blogc {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+}
+.Blog:hover {
+    cursor: pointer;
+}
+.pl2 {
+    padding-left: 473px;
+}
+#vertical-line {
+    width: 1320px;
+    height: 1px;
+    background: rgba(23, 23, 23, 0.20);
+}
+.step2 {
+    justify-content: center;
+    gap: 24px;
+    
+}
+.All {
+    display: inline-flex;
+    height: 35px;
+    padding: 5px 20px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    background: #FF1F3D;
+}
+.Allc {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+}
+.All:hover {
+    cursor: pointer;
+}
+.music {
+    display: inline-flex;
+    height: 35px;
+    padding: 5px 20px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    background-color: #bebdbd;
+    
+    
+}
+.music {
+    color: rgba(37, 37, 37, 0.70);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.Music:hover {
+    cursor: pointer;
+}
+.comedy {
+    display: inline-flex;
+    height: 35px;
+    padding: 5px 20px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    background-color: #bebdbd;
+    
+}
+.comedy {
+    color: rgba(37, 37, 37, 0.70);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.Comedyc:hover {
+    cursor: pointer;
+}
+.Drawing {
+    display: inline-flex;
+    height: 35px;
+    padding: 5px 20px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    background-color: #bebdbd;
+}
+.Drawing {
+    color: rgba(37, 37, 37, 0.70);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Drawing:hover {
+    cursor: pointer;
+}
+.baner-cod {
+    position: relative;
+}
+.time-text {
+    position: absolute;
+    bottom: 141px;
+    left: 213px;
+    display: inline-flex;
+    padding: 4px 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 4px;
+    background: #171717;
+}
+.ttc {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+}
+.id-logo-padding {
+    padding-right: 12px;
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+}
+.caption1 {
+    color: #171717;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 26px;
+}
+#Awlad {
+    color: rgba(23, 23, 23, 0.70);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+}
+.step3 {
+    gap: 24px;
+}
+.tik{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 150px;
+    position: absolute;
+}
+.tio{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 130px;
+    position: absolute;
+}
+.tip{
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-left: 140px;
+    position: absolute;
+}
+.tia{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 170px;
+    position: absolute;
+}
+.tis{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 170px;
+    position: absolute;
+}
+.tid{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 125px;
+    position: absolute;
+}
+.tif{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 120px;
+    position: absolute;
+}
+.tig{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 190px;
+    position: absolute;
+}
+.tih{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 170px;
+    position: absolute;
+}
+.tij{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 160px;
+    position: absolute;
+}
+.til{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 130px;
+    position: absolute;
+}
+.tiz{
+    padding-top: 55px;
+    padding-right: 0px;
+    padding-left: 160px;
+    position: absolute;
+}
